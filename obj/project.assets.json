@@ -2537,11 +2537,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iamay\\Desktop\\1108\\IndianRecipeAPI\\IndianRecipeAPI.csproj",
+      "projectUniqueName": "C:\\Users\\iamay\\Desktop\\Subm\\final-project-mlnu89\\backend\\IndianRecipeAPI\\IndianRecipeAPI.csproj",
       "projectName": "IndianRecipeAPI",
-      "projectPath": "C:\\Users\\iamay\\Desktop\\1108\\IndianRecipeAPI\\IndianRecipeAPI.csproj",
+      "projectPath": "C:\\Users\\iamay\\Desktop\\Subm\\final-project-mlnu89\\backend\\IndianRecipeAPI\\IndianRecipeAPI.csproj",
       "packagesPath": "C:\\Users\\iamay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iamay\\Desktop\\1108\\IndianRecipeAPI\\obj\\",
+      "outputPath": "C:\\Users\\iamay\\Desktop\\Subm\\final-project-mlnu89\\backend\\IndianRecipeAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iamay\\AppData\\Roaming\\NuGet\\NuGet.Config"

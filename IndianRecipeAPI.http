@@ -1,0 +1,6 @@
+@IndianRecipeAPI_HostAddress = http://localhost:5197
+
+GET {{IndianRecipeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

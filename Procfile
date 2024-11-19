@@ -1,1 +1,1 @@
-web: dotnet INDIANRECIPEAPI.dll
+web: dotnet IndianRecipeAPI.dll
